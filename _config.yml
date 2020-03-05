@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xuqiang Qin"
   avatar           : "profile_1.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Phd candidate at Indiana University Bloomington"
   location         : "Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "qinx (at) iu.edu"
   researchgate     : "https://www.researchgate.net/profile/Xuqiang_Qin"
   uri              :
   bitbucket        :
