@@ -10,8 +10,10 @@ location: "City, Country"
 
 Instructor of Record for Fall 2019 and Spring 2020.
 
+
 Heading 1
 ======
+[Download paper here](http://qinxuqiang.github.io/files/Inst V5 2nd Revise.pdf)
 
 Heading 2
 ======
