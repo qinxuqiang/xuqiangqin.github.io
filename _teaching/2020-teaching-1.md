@@ -2,7 +2,7 @@
 title: "V119 Applied Calculus"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-teaching-1
 venue: "Indiana University"
 date: 2019-2020
 location: "City, Country"
