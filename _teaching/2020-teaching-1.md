@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-teaching-1
 venue: "Indiana University"
-date: 2019-2020
+date: 2019-01-01
 location: "City, Country"
 ---
 
