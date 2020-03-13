@@ -13,7 +13,7 @@ Instructor of Record for Fall 2019 and Spring 2020.
 
 Heading 1
 ======
-[Download paper here](http://qinxuqiang.github.io/files/Inst V5 2nd Revise.pdf)
+[Download paper here](http://qinxuqiang.github.io/files/V119_Syllabus.pdf)
 
 Heading 2
 ======
