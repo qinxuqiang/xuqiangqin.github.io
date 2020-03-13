@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+My updated cv [here](http://qinxuqiang.github.io/files/Resume.pdf).
 {% include base_path %}
 
 Education
