@@ -1,6 +1,6 @@
 ---
 title: "M211/212/311 Calculus"
-collection: recitation
+collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/recitations-iu
 venue: "Indiana University"
