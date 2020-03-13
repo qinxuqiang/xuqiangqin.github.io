@@ -83,11 +83,11 @@ author:
   name             : "Xuqiang Qin"
   avatar           : "profile_1.jpg"
   bio              : "Phd candidate at Department of Mathematics, Indiana University Bloomington"
-  location         : #"Location"
+  location         : "Bloomington,IN"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : qinx (at) iu.edu
+  email            : #qinx (at) iu.edu
   researchgate     : "https://www.researchgate.net/profile/Xuqiang_Qin"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://qinxuqiang.github.io"
   google_plus      :
   keybase          :
   instagram        :
