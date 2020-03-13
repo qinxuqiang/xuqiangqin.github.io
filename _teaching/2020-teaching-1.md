@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Indiana University"
-date: 2020-01-01
+date: 2019-2020
 location: "City, Country"
 ---
 
-Instructor of Record
+Instructor of Record for Fall 2019 and Spring 2020.
 
 Heading 1
 ======
