@@ -12,8 +12,9 @@ My updated CV [here](http://qinxuqiang.github.io/files/Resume.pdf).
 
 Education
 ======
-* B.S. in Mathematics, The Chinese University of Hong Kong, 2013
 * Ph.D in Mathematics, Indiana University at Bloomington, 2020 (expected)
+* B.S. in Mathematics, The Chinese University of Hong Kong, 2013
+
 
 <!--
 * Summer 2015: Research Assistant
@@ -26,6 +27,7 @@ Education
   * Supervisor: Professor Hub
 -->  
 
+<!--
 Skills
 ======
 * Skill 1
@@ -34,6 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
