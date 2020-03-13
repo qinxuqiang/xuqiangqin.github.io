@@ -14,20 +14,17 @@ Education
 ======
 * B.S. in Mathematics, The Chinese University of Hong Kong, 2013
 * Ph.D in Mathematics, Indiana University at Bloomington, 2020 (expected)
-<!---
-Work experience
-======
+
+<!--
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
--->
-
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+-->  
 Skills
 ======
 * Skill 1
