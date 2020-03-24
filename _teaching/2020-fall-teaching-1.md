@@ -10,13 +10,4 @@ location: "City, Country"
 
 Instructor of Record for Fall 2019 and Spring 2020.
 
-
-Heading 1
-======
-[Download paper here](http://qinxuqiang.github.io/files/V119_Syllabus.pdf)
-
-Heading 2
-======
-
-Heading 3
-======
+[Download Syllabus here](http://qinxuqiang.github.io/files/V119_Syllabus.pdf)
