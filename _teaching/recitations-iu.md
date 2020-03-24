@@ -9,11 +9,8 @@ date: 2017-07-01
 
 Teaching assistant for various level of calculus courses.
 
-Heading 1
-======1212
+M211 Differentiation.
 
-Heading 2
-======1212
+M212 Intergration.
 
-Heading 3
-======3443
+M311 Multivariable Calculus.
