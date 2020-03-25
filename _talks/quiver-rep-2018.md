@@ -5,6 +5,6 @@ type: "Algebra Seminar"
 permalink: /talks/quiver-rep-2018
 venue: "Indiana University,"
 date: 2018-02-01
-location: "Bloomington, Indiana"
+location: "Bloomington, IN"
 ---
 
