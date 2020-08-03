@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 
-I am a final year graduate student at Indiana University at Bloomington. My advisor is Valery Lunts. Starting Fall 2020, I will be a postdoc at the University of North Carolina at Chapel Hill.
+I am a postdoctoral research associate at University of North Carolina at Chapel Hill. My mentor is Justin Sawon. 
+
+I obtained my Ph.D from Indiana University at Bloomington. My advisor was Valery Lunts. 
 
 My research interest is algebraic geometry, in particular derived categories, moduli space of sheaves and quiver representations.
