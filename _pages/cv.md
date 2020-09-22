@@ -12,7 +12,7 @@ My updated CV [here](http://qinxuqiang.github.io/files/Resume.pdf).
 
 Education
 ======
-* Ph.D in Mathematics, Indiana University at Bloomington, 2020 (expected)
+* Ph.D in Mathematics, Indiana University at Bloomington, 2020
 * B.S. in Mathematics, The Chinese University of Hong Kong, 2013
 
 
