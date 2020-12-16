@@ -9,3 +9,7 @@ location: "City, Country"
 ---
 
 Instructor of Record for Fall 2020. Textbook: Discrete Mathematics and Its Applications, 8th Edition by Kenneth Rosen.
+
+
+Heading 1
+======
