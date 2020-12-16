@@ -12,6 +12,7 @@ Instructor of Record for Fall 2020.
 
 Textbook: Discrete Mathematics and Its Applications, 8th Edition by Kenneth Rosen.
 
+[View Syllabus here](http://qinxuqiang.github.io/files/V119_Syllabus.pdf)
 
 Heading 1
 ======
