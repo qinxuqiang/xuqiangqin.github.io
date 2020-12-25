@@ -7,5 +7,5 @@ venue: "Indiana University"
 date: 2017-07-01
 ---
 
-Instrucotr of Record.
+Instructor of Record.
 
