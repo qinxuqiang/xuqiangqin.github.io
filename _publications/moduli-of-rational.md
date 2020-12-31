@@ -8,4 +8,4 @@ venue: 'arxiv preprint'
 paperurl: 'https://arxiv.org/abs/1804.09544'
 
 ---
-[pdf](https://arxiv.org/abs/1804.09544)
+
