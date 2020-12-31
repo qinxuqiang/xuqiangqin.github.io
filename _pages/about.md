@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate at University of North Carolina at Chapel Hill. My mentor is Justin Sawon. [Justin Sawon](http://sawon.web.unc.edu)
+I am a postdoctoral research associate at University of North Carolina at Chapel Hill. My mentor is [Justin Sawon](http://sawon.web.unc.edu).
 
-I obtained my Ph.D from Indiana University at Bloomington. My advisor was Valery Lunts. 
+I obtained my Ph.D from Indiana University at Bloomington. My advisor was [Valery Lunts](https://math.indiana.edu/about/faculty/lunts-valery.html)
 
 My research interest is algebraic geometry, in particular derived categories, moduli space of sheaves and quiver representations.
