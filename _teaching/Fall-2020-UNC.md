@@ -1,11 +1,11 @@
 ---
 title: "MATH 381H Discrete Mathematics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate Honors course"
 permalink: /teaching/2020-fall-UNC
 venue: "University of North Carolina at Chapel Hill"
 date: 2020-8-10
-location: "City, Country"
+location: "Chapel Hill, NC"
 ---
 
 Instructor of Record for Fall 2020. 
