@@ -1,0 +1,13 @@
+---
+title: "MATH 381 Discrete Mathematics"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2021-fall-UNC
+venue: "University of North Carolina at Chapel Hill"
+date: 2022-1-10
+location: "City, Country"
+---
+
+Instructor of Record for Spring 2022. 
+
+Textbook: Discrete Mathematics and Its Applications, 8th Edition by Kenneth Rosen.
