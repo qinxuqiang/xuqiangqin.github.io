@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2021-fall-UNC
 venue: "University of North Carolina at Chapel Hill"
 date: 2022-1-10
-location: "City, Country"
+location: "Chapel Hill, NC"
 ---
 
 Instructor of Record for Spring 2022. 
