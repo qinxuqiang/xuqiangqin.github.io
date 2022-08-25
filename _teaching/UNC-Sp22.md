@@ -14,4 +14,4 @@ Textbook: Discrete Mathematics and Its Applications, 8th Edition by Kenneth Rose
 
 
 
-[Evalutation]: 'https://qinxuqiang.github.io/files/381 Eval.pdf'
+[Course Evaluation] (http://qinxuqiang.github.io/files/381_Eval.pdf)
