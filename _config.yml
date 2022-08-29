@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xuqiang Qin 秦绪强"
+title                    : "Xuqiang Qin "
 title_separator          : "-"
-name                     : Xuqiang Qin 秦绪强
+name                     : Xuqiang Qin 
 description              : &description "personal description"
 url                      : https://qinxuqiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xuqiang Qin"
+  name             : "Xuqiang Qin 秦绪强"
   avatar           : "Wilmington.jpg"
   bio              : "Postdoc at Department of Mathematics, UNC Chapel Hill"
   location         : "Chapel Hill,NC"
