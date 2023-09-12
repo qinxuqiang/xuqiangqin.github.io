@@ -5,7 +5,7 @@ collection: preprints
 permalink: /publication/BM1
 excerpt: 'joint with [Justin Sawon](https://sawon.web.unc.edu)'
 date: 2022-07-25
-venue: 'arxiv preprint'
+venue: 'to appear in Mathematische Zeitschrift'
 paperurl: 'https://arxiv.org/abs/2207.12603'
 
 ---
