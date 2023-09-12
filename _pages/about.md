@@ -15,4 +15,4 @@ I obtained my Ph.D from Indiana University Bloomington. My advisor was [Valery L
 
 My research interest is algebraic geometry, in particular derived categories, moduli space of sheaves and quiver representations.
 
-Email: russellqin-AT-gmail-Dot-com
+Email: qinx AT unc DOT edu
