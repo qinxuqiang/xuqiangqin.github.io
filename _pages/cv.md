@@ -58,4 +58,6 @@ Teaching
   
 Service and leadership
 ======
+* Co-organizer, School on K3 surfaces, hyperk\"ahler manifolds, and cubic fourfolds, Hausdorff Research Institute for Mathematics, Bonn, 2023.
+* Co-organizer, STReTCH learning seminar (Selected Topics RElating To Cubics and Hyperk\"ahlers), Hausdorff Research Institute for Mathematics, Bonn, 2023.
 * REU mentoring: William Hargis
