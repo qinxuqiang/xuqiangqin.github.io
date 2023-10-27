@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a postdoctoral research associate at University of North Carolina at Chapel Hill. My mentor is [Justin Sawon](http://sawon.web.unc.edu). For Fall 2023, I am a guest researcher at Hausdorff Research Institue for Mathematics.
+I am a postdoctoral research associate at University of North Carolina at Chapel Hill. My mentor is [Justin Sawon](http://sawon.web.unc.edu). For Fall 2023, I am a guest researcher at Hausdorff Research Institue for Mathematics. I am currently on the job market.
 
 I obtained my Ph.D from Indiana University Bloomington. My advisor was [Valery Lunts](https://math.indiana.edu/about/faculty/lunts-valery.html).
 
