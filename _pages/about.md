@@ -15,6 +15,6 @@ I obtained my Ph.D from Indiana University Bloomington. My advisor was [Valery L
 
 My research interest is algebraic geometry, in particular derived categories, moduli space of sheaves and quiver representations.
 
-Email: qinx AT unc DOT edu
+Email: russellqin AT gmail Dot com
 
 I am co-organizing the [STReTCH seminar](https://sites.google.com/view/stretchseminar) with [Jack Petok](https://math.dartmouth.edu/~jpetok/) for Fall 2023.
